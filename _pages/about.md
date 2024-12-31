@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at [Tri-Institutional Computational Biology & Medicine](https://compbio.triiprograms.org/) (hosted by Cornell University & MSKCC & Rockefeller University), currently rotating with Prof. Dana Pe'er. Previously, I was a visiting scholar at Stanford University through UGVR program, advised by Prof. Bo Wang. 
+I am a Ph.D. student at [Tri-Institutional Computational Biology & Medicine](https://compbio.triiprograms.org/) (hosted by Cornell University & MSKCC & Rockefeller University), currently rotating with Prof. [Dana Pe'er](https://www.mskcc.org/research/ski/labs/dana-pe-er). Previously, I was a visiting scholar at Stanford University through UGVR program, advised by Prof. [Bo Wang](https://wanglab.stanford.edu/). 
 
-I received my Bachelor's degree with honors from Zhili College, Tsinghua University. During my undergraduate years, I was honored to be advised by Prof. Stephen Shing-Toung Yau from Department of Mathematical Sciences and Prof. Bryan Wei from School of Life Sciences.
+I received my Bachelor's degree with honors from Zhili College, Tsinghua University. During my undergraduate years, I was honored to be advised by Prof. [Stephen Shing-Toung Yau](https://www.math.tsinghua.edu.cn/info/1125/2065.htm) from Department of Mathematical Sciences and Prof. [Bryan Wei](https://life.tsinghua.edu.cn/lifeen/info/1034/1078.htm) from School of Life Sciences.
 
-For contact, my email is and my Wechat is...
+For contact: Email (rur4004@med.cornell.edu) and Wechat (ren99955).
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Frenruohan.github.io%2Fruohan_ren.github.io%2F)](https://hits.seeyoufarm.com)
 
@@ -30,9 +30,9 @@ My research aims to bridge computational techniques with biological discovery, i
 
 Publications
 ------
-\[1\] Ren, Ruohan, et al. "CAPE: a deep learning framework with Chaos-Attention net for Promoter Evolution." _Briefings in Bioinformatics_ 25.5 (2024): bbae398.
+\[1\] Ren, Ruohan, et al. "[CAPE: a deep learning framework with Chaos-Attention net for Promoter Evolution.](https://academic.oup.com/bib/article/25/5/bbae398/7730134)" _Briefings in Bioinformatics_ 25.5 (2024): bbae398.
 
-\[2\] Ren, Ruohan, Changchuan Yin, and Stephen S.-T. Yau. "kmer2vec: A novel method for comparing DNA sequences by word2vec embedding." _Journal of Computational Biology_ 29.9 (2022): 1001-1021.
+\[2\] Ren, Ruohan, Changchuan Yin, and Stephen S.-T. Yau. "[kmer2vec: A novel method for comparing DNA sequences by word2vec embedding.](https://www.liebertpub.com/doi/full/10.1089/cmb.2021.0536)" _Journal of Computational Biology_ 29.9 (2022): 1001-1021.
 
 Experience
 ------
