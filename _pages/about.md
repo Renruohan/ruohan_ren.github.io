@@ -46,11 +46,17 @@ Experience
 Selected Awards and Honors
 ------
 • "Tsinghua University Future Scholar" PI (with up to 150,000 CNY funding per year)
+
 • Comprehensive Excellence Scholarship/Jiang Nanxiang Scholarship in Tsinghua University
+
 • Baosteel Scholarship
+
 • Best Research Award, XueTang Program, Tsinghua University
+
 • Best Software Nomination Award & Silver Medal of International Genetically Engineered Machine (iGEM) Competition
+
 • Gold Medal of China National Biology Olympiad (CNBP)
+
 • First Prize of National Olympiad in Informatics in Provinces (NOIP)
 
 
