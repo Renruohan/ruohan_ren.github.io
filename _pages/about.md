@@ -17,14 +17,12 @@ For contact: Email (rur4004@med.cornell.edu) and Wechat (ren99955).
 
 
 Research Overview
-======
+------
 I am currently a Ph.D. student with a focus on computational biology, bioinformatics, and the application of deep learning to biological research. My work spans several interdisciplinary projects that leverage advanced computational methods, including machine learning, natural language processing, and mathematical modeling, to address biological challenges.
 
 In my research on AI for Biology, I have contributed to several projects that integrate machine learning with genomic analysis. Notably, I developed kmer2vec, a novel approach for comparing DNA sequences using NLP methods, which was applied to phylogenetic analysis and SARS-CoV-2 typing. Additionally, I constructed a deep learning model CAPE for prokaryotic promoter evolution that was successfully validated through biological experiments.
 
-In my work on experimental method development, I designed software tools to assist in DNA sequence assembly, contributing to the development of ModAssembly and NanoStructure, both of which were deployed as web-based tools.
-
-In the realm of biomathematics and data analysis, I explored genome geometric spaces to study protozoan genome structures. I also conducted research on the analysis of codon adaptation index in HIV and SARS-CoV-2.
+In my work on experimental method development, I designed software tools to assist in DNA sequence assembly, contributing to the development of ModAssembly and NanoStructure, both of which were deployed as web-based tools. In the realm of biomathematics and data analysis, I explored genome geometric spaces to study protozoan genome structures. I also conducted research on the analysis of codon adaptation index in HIV and SARS-CoV-2.
 
 My research aims to bridge computational techniques with biological discovery, improving our understanding of genomic evolution, gene regulation, develepmental biology, and disease mechanisms through innovative models and software tools.
 
