@@ -7,47 +7,68 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at Tri-Institutional Computational Biology & Medicine (hosted by Cornell University & MSKCC & Rockefeller University), currently rotating with Prof. Dana Pe'er. Previously, I was a visiting scholar at Stanford University through UGVR program, advised by Prof. Bo Wang. I received my Bachelor's degree with honors from Zhili College, Tsinghua University. During my undergraduate years, I was honored to be advised by Prof. Stephen Shing-Toung Yau from Department of Mathematical Sciences and Prof. Bryan Wei from School of Life Sciences.
+I am a Ph.D. student at [Tri-Institutional Computational Biology & Medicine](https://compbio.triiprograms.org/) (hosted by Cornell University & MSKCC & Rockefeller University), currently rotating with Prof. Dana Pe'er. Previously, I was a visiting scholar at Stanford University through UGVR program, advised by Prof. Bo Wang. 
+
+I received my Bachelor's degree with honors from Zhili College, Tsinghua University. During my undergraduate years, I was honored to be advised by Prof. Stephen Shing-Toung Yau from Department of Mathematical Sciences and Prof. Bryan Wei from School of Life Sciences.
 
 For contact, my email is and my Wechat is...
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Frenruohan.github.io%2Fruohan_ren.github.io%2F)](https://hits.seeyoufarm.com)
 
-News
-======
-[2024/08] 
-[2022/09]
 
-Research
+Research Overview
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+I am currently a Ph.D. student with a focus on computational biology, bioinformatics, and the application of deep learning to biological research. My work spans several interdisciplinary projects that leverage advanced computational methods, including machine learning, natural language processing, and mathematical modeling, to address biological challenges.
+
+In my research on AI for Biology, I have contributed to several projects that integrate machine learning with genomic analysis. Notably, I developed kmer2vec, a novel approach for comparing DNA sequences using NLP methods, which was applied to phylogenetic analysis and SARS-CoV-2 typing. Additionally, I constructed a deep learning model CAPE for prokaryotic promoter evolution that was successfully validated through biological experiments.
+
+In my work on experimental method development, I designed software tools to assist in DNA sequence assembly, contributing to the development of ModAssembly and NanoStructure, both of which were deployed as web-based tools.
+
+In the realm of biomathematics and data analysis, I explored genome geometric spaces to study protozoan genome structures. I also conducted research on the analysis of codon adaptation index in HIV and SARS-CoV-2.
+
+My research aims to bridge computational techniques with biological discovery, improving our understanding of genomic evolution, gene regulation, develepmental biology, and disease mechanisms through innovative models and software tools.
 
 Publications
 ------
-[1] Ren, Ruohan, et al. "CAPE: a deep learning framework with Chaos-Attention net for Promoter Evolution." _Briefings in Bioinformatics_ 25.5 (2024): bbae398.
-[2] Ren, Ruohan, Changchuan Yin, and Stephen S.-T. Yau. "kmer2vec: A novel method for comparing DNA sequences by word2vec embedding." _Journal of Computational Biology_ 29.9 (2022): 1001-1021.
+\[1\] Ren, Ruohan, et al. "CAPE: a deep learning framework with Chaos-Attention net for Promoter Evolution." _Briefings in Bioinformatics_ 25.5 (2024): bbae398.
+
+\[2\] Ren, Ruohan, Changchuan Yin, and Stephen S.-T. Yau. "kmer2vec: A novel method for comparing DNA sequences by word2vec embedding." _Journal of Computational Biology_ 29.9 (2022): 1001-1021.
 
 Experience
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+2024/09 - Present: Ph.D. Student, Weill Cornell Medicine & MSKCC & Rockefeller University, New York
 
-**Markdown generator**
+2024/03 - 2024/07: Research Intern, Microsoft Research Asia, Beijing
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+2023/06 - 2023/10: Summer Research, Bioengineering Department, Stanford University, California
+
+2020/09 - 2024/07: Bachelor of Science with Honors, Zhili College, Tsinghua University, Beijing
+
 
 Selected Awards and Honors
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+• "Tsinghua University Future Scholar" PI (with up to 150,000 CNY funding per year)
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+• Comprehensive Excellence Scholarship/Jiang Nanxiang Scholarship in Tsinghua University
 
-For more info
+• Baosteel Scholarship
+
+• Best Software Nomination Award & Silver Medal of International Genetically Engineered Machine (iGEM) Competition
+
+• Gold Medal of China National Biology Olympiad (CNBP)
+
+• First Prize of National Olympiad in Informatics in Provinces (NOIP)
+
+
+Miscellaneous
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+• Volunteer for Beijing Winter Olympics 2022
+
+• Participant of the International Congress of Chinese Mathematicians (ICCM) 2022
+
+• EuroSpark Study Tour in France, Germany and Switzerland
+
+• Giving a 20-minute talk on HKUST-Tsinghua Joint Workshop, Hong Kong
+
+• Giving a 30-minute talk on the 5th TSIMF (Tsinghua Sanya International Mathematics Forum) Conference on
+Computational and Mathematical Bioinformatics and Biophysics, Sanya
