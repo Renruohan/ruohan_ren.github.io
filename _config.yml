@@ -24,7 +24,7 @@ author:
   avatar           : "profile_me2.png"
   name             : "Ruohan Ren | 任若寒"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. student at Tri-I CBM program; Undergraduate at Tsinghua University"
+  bio              : "Ph.D. student at Tri-I CBM program"
   location         : "New York City"
   employer         : #"Red Brick University"
   uri              : # URL
@@ -56,9 +56,9 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : https://www.instagram.com/ruohanren?igsh=MXNsZTZ6NjBmMHBkMQ%3D%3D&utm_source=qr
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : https://www.linkedin.com/in/ruohan-ren-2a01a42b8/
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
