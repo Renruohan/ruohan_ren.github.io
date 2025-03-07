@@ -55,7 +55,7 @@ Selected Awards and Honors
 
 • Best Software Nomination Award & Silver Medal of International Genetically Engineered Machine (iGEM) Competition
 
-• Gold Medal of China National Biology Olympiad (CNBP)
+• Gold Medal of China National Biology Olympiad (CNBO)
 
 • First Prize of National Olympiad in Informatics in Provinces (NOIP)
 
