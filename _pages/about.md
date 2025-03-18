@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at [Tri-Institutional Computational Biology & Medicine](https://compbio.triiprograms.org/) (hosted by Cornell University & MSKCC & Rockefeller University), currently rotating with Prof. [Dana Pe'er](https://www.mskcc.org/research/ski/labs/dana-pe-er). Previously, I was a visiting scholar at Stanford University through [UGVR program](https://engineering.stanford.edu/students-academics/global-engineering-programs/chinese-undergraduate-visiting-research-program), advised by Prof. [Bo Wang](https://wanglab.stanford.edu/). 
+I am a Ph.D. student at [Tri-Institutional Computational Biology & Medicine](https://compbio.triiprograms.org/) (hosted by Cornell University & MSKCC & Rockefeller University), currently rotating with Prof. [Christina Leslie](https://www.mskcc.org/research/ski/labs/christina-leslie). Previously, I was a visiting scholar at Stanford University through [UGVR program](https://engineering.stanford.edu/students-academics/global-engineering-programs/chinese-undergraduate-visiting-research-program), advised by Prof. [Bo Wang](https://wanglab.stanford.edu/). 
 
 I received my Bachelor's degree with honors from Zhili College, Tsinghua University. During my undergraduate years, I was honored to be advised by Prof. [Stephen Shing-Toung Yau](https://www.math.tsinghua.edu.cn/info/1125/2065.htm) from Department of Mathematical Sciences and Prof. [Bryan Wei](https://life.tsinghua.edu.cn/lifeen/info/1034/1078.htm) from School of Life Sciences.
 
@@ -51,7 +51,11 @@ Selected Awards and Honors
 
 • Baosteel Scholarship
 
+• Selected to Spark Program at Tsinghua University
+
 • Best Research Award, XueTang Program, Tsinghua University
+
+• Zhili College Dean’s List (7/219)
 
 • Best Software Nomination Award & Silver Medal of International Genetically Engineered Machine (iGEM) Competition
 
