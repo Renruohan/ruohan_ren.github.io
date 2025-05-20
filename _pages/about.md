@@ -30,7 +30,7 @@ Publications
 
 \[2\] Ren, Ruohan, Changchuan Yin, and Stephen S.-T. Yau. "[kmer2vec: A novel method for comparing DNA sequences by word2vec embedding.](https://www.liebertpub.com/doi/full/10.1089/cmb.2021.0536)" _Journal of Computational Biology_ 29.9 (2022): 1001-1021.
 
-\[2\] Hongyu Yu\*, Nan Sun\*, Ruohan Ren\*, et al. "[The grand biological universe: A comprehensive geometric construction of genome space](https://www.liebertpub.com/doi/full/10.1089/cmb.2021.0536)" _The Innovation_ (2025).
+\[3\] Hongyu Yu\*, Nan Sun\*, Ruohan Ren\*, et al. "[The grand biological universe: A comprehensive geometric construction of genome space](https://www.liebertpub.com/doi/full/10.1089/cmb.2021.0536)" _The Innovation_ (2025).
 
 \* Co-first authors
 
