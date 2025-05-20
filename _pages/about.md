@@ -24,9 +24,9 @@ My research aims to bridge computational techniques with biological discovery, i
 
 Publications
 ------
-\[1\] Ren, Ruohan, et al. "[CAPE: a deep learning framework with Chaos-Attention net for Promoter Evolution.](https://academic.oup.com/bib/article/25/5/bbae398/7730134)" _Briefings in Bioinformatics_ 25.5 (2024): bbae398.
+\[1\] Ruohan Ren, et al. "[CAPE: a deep learning framework with Chaos-Attention net for Promoter Evolution.](https://academic.oup.com/bib/article/25/5/bbae398/7730134)" _Briefings in Bioinformatics_ 25.5 (2024): bbae398.
 
-\[2\] Ren, Ruohan, Changchuan Yin, and Stephen S.-T. Yau. "[kmer2vec: A novel method for comparing DNA sequences by word2vec embedding.](https://www.liebertpub.com/doi/full/10.1089/cmb.2021.0536)" _Journal of Computational Biology_ 29.9 (2022): 1001-1021.
+\[2\] Ruohan Ren, Changchuan Yin, and Stephen S.-T. Yau. "[kmer2vec: A novel method for comparing DNA sequences by word2vec embedding.](https://www.liebertpub.com/doi/full/10.1089/cmb.2021.0536)" _Journal of Computational Biology_ 29.9 (2022): 1001-1021.
 
 \[3\] Hongyu Yu\*, Nan Sun\*, Ruohan Ren\*, et al. "[The grand biological universe: A comprehensive geometric construction of genome space](https://www.cell.com/the-innovation/fulltext/S2666-6758(25)00140-7)" _The Innovation_ (2025).
 
