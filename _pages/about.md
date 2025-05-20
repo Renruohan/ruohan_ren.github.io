@@ -20,8 +20,6 @@ I am currently a Ph.D. student with a focus on computational biology, bioinforma
 
 In my research on AI for Biology, I have contributed to several projects that integrate machine learning with genomic analysis. Notably, I developed kmer2vec, a novel approach for comparing DNA sequences using NLP methods, which was applied to phylogenetic analysis and SARS-CoV-2 typing. Additionally, I constructed a deep learning model CAPE for prokaryotic promoter evolution that was successfully validated through biological experiments.
 
-In my work on experimental method development, I designed software tools to assist in DNA sequence assembly, contributing to the development of ModAssembly and NanoStructure, both of which were deployed as web-based tools. In the realm of biomathematics and data analysis, I explored genome geometric spaces to study protozoan genome structures. I also conducted research on the analysis of codon adaptation index in HIV and SARS-CoV-2.
-
 My research aims to bridge computational techniques with biological discovery, improving our understanding of genomic evolution, gene regulation, develepmental biology, and disease mechanisms through innovative models and software tools.
 
 Publications
@@ -30,7 +28,7 @@ Publications
 
 \[2\] Ren, Ruohan, Changchuan Yin, and Stephen S.-T. Yau. "[kmer2vec: A novel method for comparing DNA sequences by word2vec embedding.](https://www.liebertpub.com/doi/full/10.1089/cmb.2021.0536)" _Journal of Computational Biology_ 29.9 (2022): 1001-1021.
 
-\[3\] Hongyu Yu\*, Nan Sun\*, Ruohan Ren\*, et al. "[The grand biological universe: A comprehensive geometric construction of genome space](https://www.liebertpub.com/doi/full/10.1089/cmb.2021.0536)" _The Innovation_ (2025).
+\[3\] Hongyu Yu\*, Nan Sun\*, Ruohan Ren\*, et al. "[The grand biological universe: A comprehensive geometric construction of genome space](https://www.cell.com/the-innovation/fulltext/S2666-6758(25)00140-7)" _The Innovation_ (2025).
 
 \* Co-first authors
 
