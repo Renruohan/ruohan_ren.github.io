@@ -13,8 +13,6 @@ I received my Bachelor's degree with honors from Zhili College, Tsinghua Univers
 
 For contact: Email (rur4004@med.cornell.edu) and Wechat (ren99955).
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Frenruohan.github.io%2Fruohan_ren.github.io%2F)](https://hits.seeyoufarm.com)
-
 
 Research Overview
 ------
@@ -31,6 +29,10 @@ Publications
 \[1\] Ren, Ruohan, et al. "[CAPE: a deep learning framework with Chaos-Attention net for Promoter Evolution.](https://academic.oup.com/bib/article/25/5/bbae398/7730134)" _Briefings in Bioinformatics_ 25.5 (2024): bbae398.
 
 \[2\] Ren, Ruohan, Changchuan Yin, and Stephen S.-T. Yau. "[kmer2vec: A novel method for comparing DNA sequences by word2vec embedding.](https://www.liebertpub.com/doi/full/10.1089/cmb.2021.0536)" _Journal of Computational Biology_ 29.9 (2022): 1001-1021.
+
+\[2\] Hongyu Yu\*, Nan Sun\*, Ruohan Ren\*, et al. "[kmer2vec: A novel method for comparing DNA sequences by word2vec embedding.](https://www.liebertpub.com/doi/full/10.1089/cmb.2021.0536)" _The Innovation_ (2025).
+
+\* Co-first authors
 
 Experience
 ------
