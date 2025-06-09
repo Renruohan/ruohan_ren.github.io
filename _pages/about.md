@@ -20,7 +20,7 @@ I am currently a Ph.D. student with a focus on computational biology, bioinforma
 
 In my research on AI for Biology, I have contributed to several projects that integrate machine learning with genomic analysis. Notably, I developed kmer2vec, a novel approach for comparing DNA sequences using NLP methods, which was applied to phylogenetic analysis and SARS-CoV-2 typing. Additionally, I constructed a deep learning model CAPE for prokaryotic promoter evolution that was successfully validated through biological experiments.
 
-My research aims to bridge computational techniques with biological discovery, improving our understanding of genomic evolution, gene regulation, develepmental biology, and disease mechanisms through innovative models and software tools.
+My research aims to bridge computational techniques with biological discovery, improving our understanding of genomic evolution, gene regulation, developmental biology, and disease mechanisms through innovative models and software tools.
 
 Publications
 ------
