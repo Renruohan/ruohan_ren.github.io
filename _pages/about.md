@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at [Tri-Institutional Computational Biology & Medicine](https://compbio.triiprograms.org/) (hosted by Cornell University & MSKCC & Rockefeller University), currently rotating with Prof. [Christina Leslie](https://www.mskcc.org/research/ski/labs/christina-leslie). Previously, I was a visiting scholar at Stanford University through [UGVR program](https://engineering.stanford.edu/students-academics/global-engineering-programs/chinese-undergraduate-visiting-research-program), advised by Prof. [Bo Wang](https://wanglab.stanford.edu/). 
+I am a Ph.D. student at [Tri-Institutional Computational Biology & Medicine](https://compbio.triiprograms.org/) (hosted by Cornell University & MSKCC & Rockefeller University), advised by Prof. [Christina Leslie](https://www.mskcc.org/research/ski/labs/christina-leslie). Previously, I was a visiting scholar at Stanford University through [UGVR program](https://engineering.stanford.edu/students-academics/global-engineering-programs/chinese-undergraduate-visiting-research-program), advised by Prof. [Bo Wang](https://wanglab.stanford.edu/). 
 
-I received my Bachelor's degree with honors from Zhili College, Tsinghua University. During my undergraduate years, I was honored to be advised by Prof. [Stephen Shing-Toung Yau](https://www.math.tsinghua.edu.cn/info/1125/2065.htm) from Department of Mathematical Sciences and Prof. [Bryan Wei](https://life.tsinghua.edu.cn/lifeen/info/1034/1078.htm) from School of Life Sciences.
+I received my Bachelor's degree with honors from Zhili College, Tsinghua University. During my undergraduate years, I was honored to be advised by Prof. [Stephen Shing-Toung Yau](https://www.bimsa.cn/detail/stephenyau.html) from Department of Mathematical Sciences and Prof. [Bryan Wei](https://life.tsinghua.edu.cn/lifeen/info/1034/1078.htm) from School of Life Sciences.
 
 For contact: Email (rur4004@med.cornell.edu) and Wechat (ren99955).
 
