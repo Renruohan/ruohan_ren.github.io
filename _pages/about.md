@@ -30,7 +30,7 @@ Publications
 
 \[3\] Hongyu Yu\*, Nan Sun\*, Ruohan Ren\*, et al. "[The grand biological universe: A comprehensive geometric construction of genome space.](https://www.cell.com/the-innovation/fulltext/S2666-6758(25)00140-7)" _The Innovation_ (2025).
 
-\[4\] Zixuan Bian\*, Ruohan Ren\*, Yue Yang, Chris Callison-Burch. "[HOLODECK 2.0: Vision-Language-Guided 3D World Generation with Editing](https://arxiv.org/abs/2508.05899)" _ArXiv Preprint_ (2025).
+\[4\] Zixuan Bian\*, Ruohan Ren\*, Yue Yang, Chris Callison-Burch. "[HOLODECK 2.0: Vision-Language-Guided 3D World Generation with Editing.](https://arxiv.org/abs/2508.05899)" _ArXiv Preprint_ (2025).
 
 \* Co-first authors
 
