@@ -11,7 +11,7 @@ I am a Ph.D. student at [Tri-Institutional Computational Biology & Medicine](htt
 
 I received my Bachelor's degree with honors from Zhili College, Tsinghua University. During my undergraduate years, I was honored to be advised by Prof. [Stephen Shing-Toung Yau](https://www.bimsa.cn/detail/stephenyau.html) from Department of Mathematical Sciences and Prof. [Bryan Wei](https://life.tsinghua.edu.cn/lifeen/info/1034/1078.htm) from School of Life Sciences.
 
-For contact: Email (rur4004@med.cornell.edu) and Wechat (ren99955).
+For contact: Email (rur4004@med.cornell.edu).
 
 
 Research Overview
