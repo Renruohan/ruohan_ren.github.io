@@ -32,6 +32,8 @@ Publications
 
 \[4\] Zixuan Bian\*, Ruohan Ren\*, Yue Yang, Chris Callison-Burch. "[HOLODECK 2.0: Vision-Language-Guided 3D World Generation with Editing.](https://arxiv.org/abs/2508.05899)" _ArXiv Preprint_ (2025).
 
+\[5\] Erin Haus, Anthony Santella, Yichi Xu, Ruohan Ren, Dali Wang, Zhirong Bao. "[A Single-cell Spatiotemporal Manifold of Tissue Morphology and Dynamics.](https://www.biorxiv.org/content/10.1101/2025.10.22.683950v1)" _BioRxiv Preprint_ (2025).
+
 \* Co-first authors
 
 Experience
