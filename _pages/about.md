@@ -22,7 +22,7 @@ In my research on AI for Biology, I have contributed to several projects that in
 
 My research aims to bridge computational techniques with biological discovery, improving our understanding of genomic evolution, gene regulation, developmental biology, and disease mechanisms through innovative models and software tools.
 
-Publications
+Selected Publications
 ------
 \[1\] Ruohan Ren, et al. "[CAPE: a deep learning framework with Chaos-Attention net for Promoter Evolution.](https://academic.oup.com/bib/article/25/5/bbae398/7730134)" _Briefings in Bioinformatics_ 25.5 (2024): bbae398.
 
