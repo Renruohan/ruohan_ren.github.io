@@ -71,13 +71,15 @@ Selected Awards and Honors
 
 Miscellaneous
 ------
-• Volunteer for Beijing Winter Olympics 2022
+• Presented a poster, "Interpretable motif-mediated gene regulation modeling from single-cell multiomics with SCARlink+," at the IGVF (Impact of Genomic Variation on Function) Consortium Annual Meeting 2026, St. Louis, MO
 
-• Participant of the International Congress of Chinese Mathematicians (ICCM) 2022
+• Gave a 30-minute talk at the 5th TSIMF (Tsinghua Sanya International Mathematics Forum) Conference on Computational and Mathematical Bioinformatics and Biophysics, 
+  Sanya, 2023
 
-• EuroSpark Study Tour in France, Germany and Switzerland
+• Gave a 20-minute talk at the HKUST-Tsinghua Joint Workshop, Hong Kong, 2023
 
-• Giving a 20-minute talk on HKUST-Tsinghua Joint Workshop, Hong Kong
+• Participated in the International Congress of Chinese Mathematicians (ICCM) 2022
 
-• Giving a 30-minute talk on the 5th TSIMF (Tsinghua Sanya International Mathematics Forum) Conference on
-Computational and Mathematical Bioinformatics and Biophysics, Sanya
+• Participated in the EuroSpark Study Tour in France, Germany, and Switzerland, 2022
+
+• Volunteered at the Beijing Winter Olympics 2022
